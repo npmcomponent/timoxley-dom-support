@@ -1,4 +1,4 @@
-var domready = require('domready')()
+var domready = require('enyo-domready')()
 
 module.exports = (function() {
 
